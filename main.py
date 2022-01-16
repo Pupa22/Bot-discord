@@ -1,6 +1,3 @@
-#931575013847470132 client
-#OTMxNTc1MDEzODQ3NDcwMTMy.YeGa1w.LJC1lIHzYNT1dCOw69tsXWbSHRc Token
-
 import discord
 
 from discord.utils import get
